@@ -8,6 +8,7 @@ marimo = {extras = ["sql"], version = "*"}
 polars = {extras = ["pyarrow"], version = "*"}
 ruff = "*"
 matplotlib = "*"
+pytz = "*"
 
 [dev-packages]
 
